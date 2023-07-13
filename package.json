@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yashweblife/docker-chat-app/issues"
   },
-  "homepage": "https://github.com/yashweblife/docker-chat-app#readme"
+  "homepage": "https://github.com/yashweblife/docker-chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
