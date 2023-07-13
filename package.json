@@ -1,0 +1,19 @@
+{
+  "name": "docker-chat-app",
+  "version": "1.0.0",
+  "description": "A chat app made with docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashweblife/docker-chat-app.git"
+  },
+  "author": "YashWebLife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashweblife/docker-chat-app/issues"
+  },
+  "homepage": "https://github.com/yashweblife/docker-chat-app#readme"
+}
